@@ -1,0 +1,9 @@
+application: wefollow-zojax
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /.*
+  script: wefollow.app.app

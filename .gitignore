@@ -1,0 +1,10 @@
+/eggs
+/bin
+.DS_Store
+.*.cfg
+.pyc
+.pyo
+*-eggs
+*.egg-info
+/downloads
+/parts
